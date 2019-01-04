@@ -4,8 +4,6 @@
     <list default="true" id="35fbe4de-7e48-4713-9845-6676c8f787a5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Downloads.html" beforeDir="false" afterPath="$PROJECT_DIR$/Downloads.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/New Text Document.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Downloads.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="523">
-              <caret line="62" column="35" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
+            <state relative-caret-position="500">
+              <caret line="58" column="62" lean-forward="true" selection-start-line="58" selection-start-column="62" selection-end-line="58" selection-end-column="62" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -104,8 +102,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,6 +131,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -222,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1546279353407</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Extra info added">
+      <created>1546460022291</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1546460022291</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -238,8 +243,8 @@
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49227372" visible="true" weight="0.13166311" />
-      <window_info id="Structure" order="1" sideWeight="0.50772625" side_tool="true" visible="true" weight="0.13166311" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49117" visible="true" weight="0.13166311" />
+      <window_info id="Structure" order="1" sideWeight="0.50883" side_tool="true" visible="true" weight="0.13166311" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -264,8 +269,8 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Maven" order="6" weight="0.32995737" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info active="true" anchor="right" x="728" y="297" width="446" height="450" id="Terminal" order="8" sideWeight="0.49117" visible="true" weight="0.16950959" />
-      <window_info anchor="right" x="1425" y="462" width="446" height="455" id="Event Log" order="9" sideWeight="0.50883" side_tool="true" visible="true" weight="0.16950959" />
+      <window_info active="true" anchor="right" x="728" y="297" width="446" height="450" id="Terminal" order="8" sideWeight="0.49006623" visible="true" weight="0.16950959" />
+      <window_info anchor="right" x="1425" y="462" width="446" height="455" id="Event Log" order="9" sideWeight="0.50993377" side_tool="true" visible="true" weight="0.16950959" />
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
@@ -274,7 +279,8 @@
     <MESSAGE value="Updated some text, not much" />
     <MESSAGE value="Some minor visual stuff" />
     <MESSAGE value="Fixed an error (I hope)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed an error (I hope)" />
+    <MESSAGE value="Extra info added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Extra info added" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -337,8 +343,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Downloads.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="62" column="35" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
+        <state relative-caret-position="500">
+          <caret line="58" column="62" lean-forward="true" selection-start-line="58" selection-start-column="62" selection-end-line="58" selection-end-column="62" />
           <folding>
             <element signature="n#style#0;n#div#0;n#html#0;n#!!top" expanded="true" />
           </folding>
